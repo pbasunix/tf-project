@@ -1,6 +1,6 @@
 # IAC
 
-Automate the provisioning and configuration of AWS Resources [VPC, EC2, Subnets, IGW, Security Groups]  
+Automate the provisioning and configuration of AWS Resources [VPC, EC2, Subnets, IGW, Security Groups, Route Table] 
 
 ## Requirements
 
