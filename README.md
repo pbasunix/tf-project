@@ -32,7 +32,7 @@ git clone https://github.com/pbasunix/tf-project.git
 2). Initiate Terraform:
 
 ```
-cd terraform/modules/
+cd terraform/modules/vpc
 terraform init
 ```
 
